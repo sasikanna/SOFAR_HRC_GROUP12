@@ -1,6 +1,6 @@
 # SofAR assignment - Human Robot Collaboration
 
-> **Authors**: Marco Gabriele Fedozzi, Georgii Kurshakov, Laura Triglia
+> **GROUP-12**: yeshwanth Guru krishnakumar, koushikmani Masakalamatti Lakshman, Santosh Sadhanandam, Sasi Kumar Uppatala 
 
 This package contains part of the materials necessary to run the assignment for the *Software Architectures for Robotics* course of the Robotics Engineering/(J)EMARO MSc at [University of Genoa](https://courses.unige.it/10635).
 
