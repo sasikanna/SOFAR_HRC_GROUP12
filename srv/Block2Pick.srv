@@ -1,0 +1,11 @@
+##	\file Block2Pick.srv 
+#		\brief Request on block to pick pose
+
+string arm
+geometry_msgs/Pose eef_pose
+
+---
+
+string block_name
+string block_color
+geometry_msgs/Pose block_pose
