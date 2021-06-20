@@ -75,7 +75,7 @@ Might be counterproductive in the real scenario, use with care.
 
 # Documentation
 
-See Doxygen page at: [HumanRobotCollaboration Documentation](https://hypothe.github.io/sofar_hbc_01/)
+See Doxygen page at:
 
 # Other resources
 
