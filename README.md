@@ -75,7 +75,7 @@ Might be counterproductive in the real scenario, use with care.
 
 # Documentation
 
-See Doxygen page at:
+
 
 # Other resources
 
