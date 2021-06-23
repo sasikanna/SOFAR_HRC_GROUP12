@@ -1,9 +1,9 @@
 /****************************************//**
 * \file Link.h
 * \brief Class definition of the Link item
-* \author Marco Gabriele Fedozzi (5083365@studenti.unige.it)
+* \author Uppatala Sasi Kumar (5058253@studenti.unige.it)
 * \version 1.0
-* \date 14/06/2021
+* \date 23/06/2021
 *
 ********************************************/
 #ifndef LINK_H
@@ -19,7 +19,7 @@
 #include <Eigen/Geometry>
 #include "fcl/narrowphase/collision_object.h"
 
-#include "sofar_hbc_01/utils.h"
+#include "sofar_hbc_12/utils.h"
 
 /****************************************//**
 * This class stores a representation of one
