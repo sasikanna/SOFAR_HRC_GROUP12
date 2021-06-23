@@ -7,7 +7,7 @@
   required="true" />
 
   <!-- Run the Joint Trajectory Action -->
-  <node name="rsdk_joint_trajectory_left" pkg="sofar_hbc_01"
+  <node name="rsdk_joint_trajectory_left" pkg="sofar_hbc_12"
   type="joint_trajectory_client.py" args="- -limb left"
   output="screen" />
   
@@ -17,7 +17,7 @@
   required="true" />
 
   <!-- Run the Joint Trajectory Action -->
-  <node name="rsdk_joint_trajectory_right" pkg="sofar_hbc_01"
+  <node name="rsdk_joint_trajectory_right" pkg="sofar_hbc_12"
   type="joint_trajectory_client.py" args="- -limb right"
   output="screen" />
   
