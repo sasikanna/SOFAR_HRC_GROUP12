@@ -1,9 +1,9 @@
 /****************************************//**
 * \file Block.cpp
 * \brief Class implementation of the Block item
-* \author Uppatala Sasi Kumar (505825@studenti.unige.it)
+* \author Uppatala Sasi Kumar (5058253@studenti.unige.it)
 * \version 1.0
-* \date 05/06/2021
+* \date 20/06/2021
 *
 * \details
 *
