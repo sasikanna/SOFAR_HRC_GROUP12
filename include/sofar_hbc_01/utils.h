@@ -1,9 +1,9 @@
 /****************************************//**
 * \file utils.h
 * \brief Utility functions definition
-* \author Marco Gabriele Fedozzi (5083365@studenti.unige.it)
+* \author Uppatala Sasi Kumar (5058253@studenti.unige.it)
 * \version 1.0
-* \date 14/06/2021
+* \date 23/06/2021
 *
 * \details
 *
