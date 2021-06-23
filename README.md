@@ -79,9 +79,9 @@ Might be counterproductive in the real scenario, use with care.
 
 # Other resources
 
-| name          | link                                       | description                                  |
-| ---- 				    	| ---- 									                             | -----				                                    |
-| moveit_robots | https://github.com/hypothe/moveit_robots   | baxter config files for moveit (modified)    |
-| baxter        | https://github.com/RethinkRobotics/baxter  | baxter description and interfaces (install all of the presented packages) |
-| SofAR-Human-Robot-Collaboration | https://github.com/hypothe/SofAR-Human-Robot-Collaboration  | Unity connection (modified) |
+| name          | link                                                   | description                                  |
+| ---- 				  | ---- 									                                 | -----				                                |
+| moveit_robots | https://github.com/sasikanna/MOVEIT_ROBOTS_GROUP-12    | baxter config files for moveit (modified)    |
+| baxter        | https://github.com/sasikanna/BAXTER_MASTER_GROUP-12    | baxter description and interfaces (install all of the presented packages) |
+| SofAR-HRC     |                                                        | Unity connection      |
 
