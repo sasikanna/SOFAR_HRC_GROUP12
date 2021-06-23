@@ -28,13 +28,13 @@ This will initiate the connection between the simulation and the ROS environment
 
 2. **Finite State Machine**
 ```bash
-.../ros_ws$ roslaunch sofar_hbc_01 sofar_hbc_01.launch
+.../ros_ws$ roslaunch sofar_hbc_12 sofar_hbc_12.launch
 ```
 Ignore the warnings, here as well ae simply due to legacy code. Once the systems starts running you can pass to the third (optional) phase.
 
 3. **Collision Detection** (optional)
 ```bash
-.../ros_ws$ rosrun sofar_hbc_01 collision_detection
+.../ros_ws$ rosrun sofar_hbc_12 collision_detection
 ```
 This will start the node responsible of tracking collisions (better said, distances) between Baxter and the human, as well as between the two Baxter arms, in real time.
 This node is not necessary, and has quite a few limitations:
@@ -57,19 +57,19 @@ The steps are thus as follows:
 
 2. **Robot Controller**
 ```bash
-.../ros_ws$ roslaunch sofar_hbc_01 joint_trajectory_client.launch
+.../ros_ws$ roslaunch sofar_hbc_12 joint_trajectory_client.launch
 ```
 Forward the trajectories to the actual robot.
 
 3. **Finite State Machine**
 ```bash
-.../ros_ws$ roslaunch sofar_hbc_01 lab_sofar_hbc_01.launch
+.../ros_ws$ roslaunch sofar_hbc_12 lab_sofar_hbc_12.launch
 ```
 Launches a node which forwards the gripper commands to the robot, together with all the other nodes described.
 
 4. **Collision Detection** (optional)
 ```bash
-.../ros_ws$ rosrun sofar_hbc_01 collision_detection
+.../ros_ws$ rosrun sofar_hbc_12 collision_detection
 ```
 Might be counterproductive in the real scenario, use with care.
 
