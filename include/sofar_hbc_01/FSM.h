@@ -137,8 +137,8 @@ class FSM{
 		bool stateEvolution();
 
 		void clock_Cllbck(const ros::TimerEvent&);
-		bool collisionPolicy(	sofar_hbc_01::CollisionDetectionResult::Request &req,
-													sofar_hbc_01::CollisionDetectionResult::Response &res);
+		bool collisionPolicy(	sofar_hbc_12::CollisionDetectionResult::Request &req,
+													sofar_hbc_12::CollisionDetectionResult::Response &res);
 		void trajectoryResult(const human_baxter_collaboration::BaxterResultTrajectory::ConstPtr& msg);
 		void resetCollisionWait();
 		void setCollisionWait();
